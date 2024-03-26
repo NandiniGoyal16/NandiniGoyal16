@@ -1,3 +1,4 @@
+![MasterHead](front.gif)
 <h1 align="center">Hi 👋, I'm Nandini Goyal</h1>
 <h3 align="center">I am a software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="system.gif">
