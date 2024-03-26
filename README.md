@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandini Goyal</h1>
 <h3 align="center">I am a software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="system.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinigoyal16&label=Profile%20views&color=0e75b6&style=flat" alt="nandinigoyal16" /> </p>
