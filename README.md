@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Python and Data Structures and Algorithms**
 
-- 💬 Ask me about **C, C++, HTML, CSS, PHP, MS Word, PowerPoint**
+- 💬 Ask me about **C, C++, MERN Stack, Python, Cloud, Java, AI/ML**
 
 - 📫 How to reach me **nandini04.goyal@gmail.com**
 
